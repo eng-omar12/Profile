@@ -76,9 +76,9 @@
 ## 🐍 Snake Contributions
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/master/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/master/snake-light.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/master/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/output/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/output/output/snake-light.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/output/output/snake-dark.svg">
   </picture>
 </p>
 
@@ -109,17 +109,6 @@
   <a href="https://github.com/eng-omar12">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/master/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/master/snake-light.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/master/snake-dark.svg">
-  </picture>
 </p>
 
 ---
