@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-<p align="center">
+<p align="left">
 👨‍💻 Building <b>modern, interactive, scalable</b> web apps <br>
 🌱 Learning <b>React, Next.js & Cybersecurity</b> <br>
 🌐 Live Projects: <a href="https://jacstor.netlify.app">🧥 Jacket Store</a> | <a href="http://spacepr.netlify.app">🌌 Space Project</a> <br>
@@ -66,13 +66,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-omar12&layout=compact&theme=tokyonight" width="45%">
-</p>
-
----
-
-## 🏆 Top 3 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-omar12&theme=radical&no-frame=true&margin-w=15&title=Commit,Followers,Repositories,Stars" width="60%">
 </p>
 
 ---
