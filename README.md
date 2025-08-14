@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=🔥+Hi+there!+I'm+Omar+🔥;🚀+Front-End+Developer;💻+Tech+Enthusiast;🔐+Cybersecurity+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=🔥+Hi+there!+I'm+Omar+🔥;🚀+Full Stack+Developer;💻+Tech+Enthusiast;🔐+Cybersecurity+Learner">
 </h1>
 
 <p align="center">
@@ -60,13 +60,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eng-omar12&theme=tokyonight" width="55%">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-omar12&layout=compact&theme=tokyonight" width="40%">
-</p>
-
----
-
-## 🏆 Top 3 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-omar12&theme=radical&no-frame=true&margin-w=15&title=Commit,Followers,Repositories" width="350">
 </p>
 
 ---
