@@ -76,9 +76,9 @@
 ## 🐍 Snake Contributions
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/snake-light.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/master/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/master/snake-light.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/master/snake-dark.svg">
   </picture>
 </p>
 
