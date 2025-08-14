@@ -118,7 +118,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-light.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
+    ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/eng-omar12/eng-omar12/output/github-contribution-grid-snake.svg)
   </picture>
 </p>
 
