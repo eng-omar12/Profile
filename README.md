@@ -76,9 +76,9 @@
 ## 🐍 Snake Contributions
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-light.svg">
-    ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/eng-omar12/eng-omar12/output/github-contribution-grid-snake.svg)
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/output/snake-light.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/output/snake-dark.svg">
   </picture>
 </p>
 
@@ -116,9 +116,9 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-light.svg">
-    ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/eng-omar12/eng-omar12/output/github-contribution-grid-snake.svg)
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/main/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/main/output/snake-light.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/main/output/snake-dark.svg">
   </picture>
 </p>
 
