@@ -11,7 +11,9 @@
 ## 🚀 About Me
 - 👨‍💻 Building **modern, interactive, and scalable** web apps  
 - 🌱 Learning **React, Next.js, and Cybersecurity**  
-- 🌐 Live Project: [🧥 Jacket Store](https://jacstor.netlify.app)  
+- 🌐 Live Projects: 
+  - [🧥 Jacket Store](https://jacstor.netlify.app)  
+  - [🌌 Space Project](http://spacepr.netlify.app)  
 - 🏆 Goal: **Become like Elon Musk & help people**  
 - 🌙 Fun fact: **Coding + Coffee ☕ = Productivity**  
 
@@ -73,9 +75,12 @@
 
 ## 🐍 Snake Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eng-omar12/eng-omar12/output/snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-light.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
+  </picture>
 </p>
-
 
 ---
 
@@ -106,16 +111,16 @@
   </a>
 </p>
 
+---
 
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/eng-omar12/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/eng-omar12/output/snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/eng-omar12/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-light.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/Profile/main/output/snake-dark.svg">
   </picture>
 </p>
-
 
 ---
 
