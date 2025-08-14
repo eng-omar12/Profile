@@ -67,9 +67,10 @@
 ---
 
 ## 🏆 Top 3 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-omar12&theme=radical&no-frame=true&margin-w=15&title=Commit,Followers,Repositories" width="400"/>
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=eng-omar12&theme=radical&no-frame=true&margin-w=15&title=Commit,Followers,Repositories" style="max-width: 100%; height: auto;">
 </div>
+
 
 
 ---
