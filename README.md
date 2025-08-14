@@ -73,12 +73,14 @@
 
 ---
 
-<picture>
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-omar12/output/dist/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-omar12/output/dist/snake-light.svg">
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/eng-omar12/output/dist/snake-dark.svg">
 </picture>
-
+</p>
 
 ---
 
